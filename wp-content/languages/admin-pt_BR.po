@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2014-09-04 14:08:04+0000\n"
+"PO-Revision-Date: 2014-10-26 23:31:47+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,15 +20,15 @@ msgstr "Use as setas na parte superior da caixa de diálogo, ou as teclas de set
 
 #: wp-admin/upload.php:36 wp-admin/upload.php:202
 msgid "You can view your media in a simple visual grid or a list with columns. Switch between these views using the icons to the left above the media."
-msgstr "Você pode ver a sua mídia em uma grade visual simples ou uma lista com colunas. Você pode alternar entre essas opções de visualização, utilizando os ícones à esquerda acima da mídia."
+msgstr "Você pode visualizar a sua mídia em grade ou em lista com colunas. Você pode alternar entre essas opções de visualização utilizando os ícones à esquerda acima da mídia."
 
 #: wp-admin/upload.php:37
 msgid "To delete media items, click the Bulk Select button at the top of the screen. Select any items you wish to delete, then click the Delete Selected button. Clicking the Cancel Selection button takes you back to viewing your media."
-msgstr "Para excluir itens de mídia, clique no botão Seleção em Massa no topo da tela. Selecione os itens que você deseja excluir e clique no botão Excluir Selecionado. Ao clicar no botão Cancelar Seleção, você será levado de volta para a visualização de sua mídia."
+msgstr "Para excluir itens da biblioteca, clique no botão Seleção em Massa no topo da tela. Selecione os itens que você deseja excluir e clique no botão Excluir Selecionado. Ao clicar no botão Cancelar Seleção, você será levado de volta para a visualização de sua mídia."
 
 #: wp-admin/upload.php:44
 msgid "Clicking an item will display an Attachment Details dialog, which allows you to preview media and make quick edits. Any changes you make to the attachment details will be automatically saved."
-msgstr "Ao clicar em um item irá exibir o Detalhes do Anexo, que permite visualizar a mídia e fazer edições rápidas. Todas as alterações feitas na tela Detalhes de Anexo serão salvos automaticamente."
+msgstr "Ao clicar em um item a caixa de diálogo Detalhes do Anexo será exibida, permitindo visualizar o arquivo e fazer edições rápidas. Todas as alterações que você fizer serão salvas automaticamente."
 
 #: wp-admin/upload.php:46
 msgid "You can also delete individual items and access the extended edit screen from the details dialog."
@@ -145,8 +145,8 @@ msgstr[1] "Desanexados (%s)"
 msgctxt "uploaded files"
 msgid "Trash (%s)"
 msgid_plural "Trash (%s)"
-msgstr[0] "Lixo (%s)"
-msgstr[1] "Lixos (%s)"
+msgstr[0] "Lixeira (%s)"
+msgstr[1] "Lixeiras (%s)"
 
 #: wp-admin/install.php:216
 msgid "Welcome to the famous five-minute WordPress installation process! Just fill in the information below and you&#8217;ll be on your way to using the most extendable and powerful personal publishing platform in the world."
@@ -176,7 +176,7 @@ msgstr "Selecionar ação em massa"
 
 #: wp-admin/includes/screen.php:977
 msgid "Expand the editor to match the window height."
-msgstr "Expandir o editor para combinar com a altura da janela."
+msgstr "Expandir o editor para combinar com a altura da tela."
 
 #: wp-admin/includes/template.php:737
 msgid "Month"
@@ -196,7 +196,7 @@ msgstr "Minuto"
 
 #: wp-admin/setup-config.php:137
 msgid "We&#8217;re going to use this information to create a <code>wp-config.php</code> file."
-msgstr "Nós vamos usar essas informações para criar um arquivo <code>wp-config.php</code>."
+msgstr "Nós vamos usar essas informações para criar um arquivo <code>wp-config.php</code> no seu servidor."
 
 #: wp-admin/theme-install.php:82
 msgid "You can Search for themes by keyword, author, or tag, or can get more specific and search by criteria listed in the feature filter. Alternately, you can browse the themes that are Featured, Popular, or Latest. When you find a theme you like, you can preview it or install it."
@@ -2529,7 +2529,7 @@ msgstr "Editar comentário"
 
 #: wp-admin/edit-form-advanced.php:461
 msgid "Enter title here"
-msgstr "Entre o título aqui"
+msgstr "Digite o título aqui"
 
 #: wp-admin/edit-link-form.php:29 wp-admin/includes/meta-boxes.php:883
 msgid "Target"
@@ -9800,7 +9800,7 @@ msgstr "Compatível até:"
 
 #: wp-admin/includes/plugin-install.php:436
 msgid "Downloaded:"
-msgstr "Recebidos:"
+msgstr "Baixado:"
 
 #: wp-admin/includes/plugin-install.php:436
 msgid "%s time"
